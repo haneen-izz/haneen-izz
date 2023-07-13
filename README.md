@@ -25,8 +25,10 @@
  <a href="https://www.linkedin.com/in/haneen-izz-020788223/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
 </p>
 
+<a href="https://app.daily.dev/haneen_izzaldeen"><img src="https://api.daily.dev/devcards/e63a83c075bf424eaa670d43383616e2.png?r=hpr" width="400" alt="haneen jaradeh's Dev Card"/></a>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 
 

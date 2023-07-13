@@ -26,6 +26,7 @@
 </p>
 
 
+<h2> 🚀 &nbsp;Daily.dev articles:</h2>
 
 <a href="https://app.daily.dev/haneen_izzaldeen"><img src="https://api.daily.dev/devcards/e63a83c075bf424eaa670d43383616e2.png?r=hpr" width="400" alt="haneen jaradeh's Dev Card"/></a>
 

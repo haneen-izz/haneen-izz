@@ -21,9 +21,7 @@
 <h2> 🚀 &nbsp;Contact Me:</h2>
 <p align="left">
 
-       <a href="https://www.linkedin.com/in/haneen-izz-020788223/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-        </a>
+ <a href="https://www.linkedin.com/in/haneen-izz-020788223/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="codebucks" height="30" width="40" /></a>
 </p>
 
 

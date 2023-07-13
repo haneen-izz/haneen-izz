@@ -18,7 +18,7 @@
 </p>
 
 
-<h2> 🚀 &nbsp;Contact Me:</h2>
+<h2> 🚀 &nbsp;Connect with Me:</h2>
 <p align="left">
 
 

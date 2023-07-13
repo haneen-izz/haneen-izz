@@ -1,6 +1,9 @@
 
- <img src="![image](https://github.com/haneen-izz/haneen-izz/assets/64803565/693f1f0f-f346-463b-91ba-8e0911b327ee" >
- 
+
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/haneen-izz/haneen-izz/assets/64803565/f189c5f7-85e2-4ecb-9b49-36d6d81f93fd)
+
+
+
 ### Hi there 👋
 * 👂 My name is Haneen izz
 * 🔭 I’m currently working on React js 

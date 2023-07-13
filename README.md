@@ -3,7 +3,7 @@
 * 🔭 I’m currently working on React js 
 * 🌱 I’m currently learning Next js
 
-<h2> 🚀 &nbsp;Tools and Languages</h2>
+<h2> 🚀 &nbsp;Tools and Languages:</h2>
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="45" height="45" />
@@ -16,3 +16,16 @@
 
           
 </p>
+
+
+<h2> 🚀 &nbsp;Contact Me:</h2>
+<p align="left">
+
+       <a href="https://www.linkedin.com/in/haneen-izz-020788223/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+        </a>
+</p>
+
+
+
+

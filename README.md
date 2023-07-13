@@ -1,5 +1,6 @@
 
- <img src="https://www.canva.com/design/DAFojiPXLv8/view" >
+ <img src="![image](https://github.com/haneen-izz/haneen-izz/assets/64803565/693f1f0f-f346-463b-91ba-8e0911b327ee)
+" >
  
 ### Hi there 👋
 * 👂 My name is Haneen izz

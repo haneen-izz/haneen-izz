@@ -1,5 +1,5 @@
 
-<img src="https://www.canva.com/design/DAFojiPXLv8/cdvcyCYyiIp4IOaE3JPaUg/edit?utm_content=DAFojiPXLv8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt=”my banner”>
+<img src="https://www.canva.com/design/DAFojiPXLv8/view" alt=”my banner”>
 ### Hi there 👋
 * 👂 My name is Haneen izz
 * 🔭 I’m currently working on React js 

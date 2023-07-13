@@ -21,7 +21,8 @@
 <h2> 🚀 &nbsp;Contact Me:</h2>
 <p align="left">
 
- <a href="https://www.linkedin.com/in/haneen-izz-020788223/"target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
+
+ <a href="https://www.linkedin.com/in/haneen-izz-020788223/" target="blank" rel="nofollow"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="CodeBucks" height="30" width="40" /></a>
 </p>
 
 
